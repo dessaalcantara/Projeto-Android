@@ -28,7 +28,7 @@ header {
     min-width: 300px;
     max-width: 4000px;
     min-height: 115px;
-    max-height: 125px;
+    max-height: 700px;
     padding: 10px 10px 2px 10px;
     box-shadow: -4px 2px 10px rgba(0, 0, 0, 0.705);
 }
